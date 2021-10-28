@@ -84,3 +84,37 @@ img.perfil {
     height: 12px;
     border-radius: 50%;
 }
+
+.bloco-flex-container {
+    display: flex;
+    justify-content: space-evenly;
+    left: 80px;
+    top: 230%;
+}
+
+/**/
+.item-block {
+    width: 349px;
+    height: 241px;
+    background: #212121;
+}
+/**/
+
+/**/
+.item-block-description{
+        font-weight: 500px;
+                       color: #535353;
+}
+
+border-bottom-primary {
+    border-bottom: 5px solid var(--cor-primaria);
+}
+/**/
+
+/**/
+.myskills {
+    height: 62px;
+    left: 550px;
+    top: 1944px;
+}
+
